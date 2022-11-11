@@ -1,6 +1,7 @@
 ## End-to-End NLP Machine Learning Project- Sentiment analysis of commodity news using NLP
 
-<img target="_blank" src="https://github.com/dipakml/Sentiment-analysis-of-commodity-news-using-NLP/blob/master/sentiment_analysis.png" width=600>
+
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/Logo_Images/sentiment_analysis2.jpeg" width=600>
 
 ### Table of Content
   * [Overview](#overview)
@@ -36,12 +37,9 @@ Idea is to implement the end to end machine learning project while using free de
 
 
 
-### Demo
-[Visit this link for Web application](https://loanwebapp7.herokuapp.com/)
-
 Web application Snapshot:
 
-<img target="_blank" src="https://github.com/dipakml//Sentiment-analysis-of-commodity-news-using-NLP/blob/master/webapp.PNG" width=800>
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Concrete-Compressive-Strength/blob/master/Logo_Images/webapp.PNG" width=1200>
 
 
 
