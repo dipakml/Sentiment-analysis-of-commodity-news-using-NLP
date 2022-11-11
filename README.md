@@ -1,6 +1,6 @@
 ## End-to-End NLP Machine Learning Project- Sentiment analysis of commodity news using NLP
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/PL-Eligibility-Calc.png" width=600>
+<img target="_blank" src="https://github.com/dipakml/Sentiment-analysis-of-commodity-news-using-NLP/blob/master/sentiment_analysis.PNG" width=600>
 
 ### Table of Content
   * [Overview](#overview)
@@ -41,7 +41,7 @@ Idea is to implement the end to end machine learning project while using free de
 
 Web application Snapshot:
 
-<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/webapp_snapshot.png" width=800>
+<img target="_blank" src="https://github.com/dipakml//Sentiment-analysis-of-commodity-news-using-NLP/blob/master/webapp.PNG" width=800>
 
 
 
