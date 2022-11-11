@@ -1,6 +1,6 @@
 ## End-to-End NLP Machine Learning Project- Sentiment analysis of commodity news using NLP
 
-<img target="_blank" src="https://github.com/dipakml/Sentiment-analysis-of-commodity-news-using-NLP/blob/master/sentiment_analysis.PNG" width=600>
+<img target="_blank" src="https://github.com/dipakml/Sentiment-analysis-of-commodity-news-using-NLP/blob/master/sentiment_analysis.png" width=600>
 
 ### Table of Content
   * [Overview](#overview)
