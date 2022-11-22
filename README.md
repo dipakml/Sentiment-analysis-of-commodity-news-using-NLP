@@ -27,7 +27,7 @@ In this project, let's apply machine learning techniques and develop a web based
 This is a news dataset for the commodity market where we have manually annotated 10,000+ news headlines across multiple dimensions into various classes. The dataset has been sampled from a period of 20+ years (2000-2021).
 
 
-Dataset used in this project can be found here : [Dataset] https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-in-commodity-market-gold
+Dataset used in this project can be found here : [Dataset](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-in-commodity-market-gold)
 
 
 ### Motivation
