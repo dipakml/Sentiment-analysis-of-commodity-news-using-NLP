@@ -19,7 +19,7 @@
 ### Overview 
 With the rapid development of the Internet and big data technologies, a rich of online data (including news releases) can helpfully facilitate evaluating the sentiment of commodities at given day. Accordingly, this study introduces sentiment analysis, a useful analysis tool, to understand the relevant information of online news articles and predicts the sentiment which can be further used to formulate a gold price trend prediction.
 
-In this project, let's apply machine learning techniques and develop a web based application to predict the loan eligibility of new applicant.
+In this project, let's apply machine learning techniques and develop a web based application to predict the sentiment of the given news.
 
 
 ### Dataset Information
