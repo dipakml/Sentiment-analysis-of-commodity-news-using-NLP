@@ -56,8 +56,8 @@ Web application Snapshot:
 
 - Training a machine learning model using scikit-learn. 
 - Building and hosting a streamlit web app on Heroku. 
-- A user has to the news.
-- Once it gets the input news , the sentiment prediction is displayed. 
+- A user has to input the news.
+- Once it gets the news , the sentiment prediction is displayed. 
 
 
 ### Technologies Used  
